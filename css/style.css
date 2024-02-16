@@ -533,6 +533,11 @@ The content `<div>` is where all your content goes.
       font-size: 0.8em;
       font-weight: bold;
     }
+
+    .banner .pure-g{
+      overflow: hidden;
+    }
+
     .banner h1{
       font-size: 1.5em;
     }
